@@ -10,7 +10,7 @@ public class ParallelStreams {
 //    parallel using multiple threads from the ForkJoinPool. This can improve performance
 //    for large datasets on multi-core CPUs.
 //    The collection is split into chunks (tasks).
-//    Tasks are submitted to ForkJoinPool threads.
+//    Tasks are submitted to ForkJoinPool threads..
 //    Each thread processes its chunk in parallel.
 //    Partial results are combined..,,,,,,,,,,,,,,
 
