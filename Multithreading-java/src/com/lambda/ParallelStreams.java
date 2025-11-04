@@ -12,7 +12,7 @@ public class ParallelStreams {
 //    The collection is split into chunks (tasks).
 //    Tasks are submitted to ForkJoinPool threads.
 //    Each thread processes its chunk in parallel.
-//    Partial results are combined.kk
+//    Partial results are combined.kkdd
 
     public static void main(String[] args) {
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
